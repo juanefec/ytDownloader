@@ -1,0 +1,24 @@
+{
+  "name": "nodedownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanefec/nodeDownloader.git"
+  },
+  "author": "juan clot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanefec/nodeDownloader/issues"
+  },
+  "homepage": "https://github.com/juanefec/nodeDownloader#readme",
+  "dependencies": {
+    "get-urls": "^7.0.0",
+    "youtube-search": "1.0.10",
+    "ytdl-core": "0.18.2"
+  }
+}
