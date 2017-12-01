@@ -19,7 +19,7 @@ fs.readFile(filename, 'utf8', (err, data) => {
   links = data.match(regex);
   links.forEach(link => {
     
-      console.log("link: " + link);
+      console.log("Link: " + link);
       yt.getInfo(yt.getURLVideoID(link), (err, info) => {
         if (err) throw err;
         console.log("Downloading... :" + info.title);
