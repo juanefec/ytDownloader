@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/juanefec/nodeDownloader#readme",
   "dependencies": {
+    "audio-converter": "^1.0.13",
     "get-urls": "^7.0.0",
     "youtube-search": "1.0.10",
     "ytdl-core": "0.18.2"
