@@ -12,6 +12,8 @@ npm install
 
 All that's left is to copy links and paste them in the .txt file called mList.txt
 
+Run it like this:
+
 ~~~
 node ytDwload.js mList.txt
 ~~~
